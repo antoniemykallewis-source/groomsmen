@@ -36,7 +36,7 @@ node scripts/build.cjs
 | Luis Shalabi | `assets/luis.webp` | IMG_5863.jpeg, seated by planter |
 | Harris | `assets/harris.webp` | IMG_5865.jpeg, hat |
 
-All seven portraits are assigned. The couple's boat photo is the hero. The page has no Find My notes. Chuy handles vibes and drinks. Luis handles guest questions and seating before 4:30pm and is free for his speech and the toasts.
+All seven portraits are assigned. The couple's boat photo is the hero. The page has no Find My notes. Chuy helps guests find seats before 4:30pm and brings the vibes. Luis holds the vows, gives a speech and is off logistics during the toasts. Malik owns photos. Kelvin gathers the crew, phones, gifts and belongings for Catch at 10:00pm. Will has no separate rooftop assignment. Thursday rehearsal is a comfortable walkthrough; rehearsal dinner dress code is ELEVATED CASUAL.
 
 ## Publication
 
@@ -44,4 +44,4 @@ This repository is public, so its source, photos and wedding details are publicl
 
 ## Timing items still to confirm
 
-The brief gives a 4:00pm arrival/holding-room instruction and a separate 4:00pm front-row seating instruction for Kelvin. It also places Harris on the altar while saying all seven sit front row. Those statements remain flagged in FRAMER_INTEGRATION.md; no revised ceremony timing has been invented.
+Everyone arrives at Cape Sienna by 4:00pm and waits until called. Kelvin has no seating duty. Harris remains at the altar as officiant; the original seven-person/front-row count remains noted in FRAMER_INTEGRATION.md.

@@ -74,11 +74,11 @@ Blue Sea has its own text location card and exact map link; the two other venue 
 - Hero: `SHOW UP READY.` Smaller serif line: `Lock in.` The profanity is a small supporting line only.
 - Seven role cards: Will, Tim, Kelvin, Malik, Chuy, Luis, Harris. Harris is the officiant, not part of the procession.
 - Tim's transport assignment is to confirm rides and pickup times only. Will holds the rings, gives a speech, keeps Antonie on time and covers the floor while Tim speaks.
-- Luis handles guest questions and seating before 4:30pm, gives a speech and is off logistics during the toasts. Malik owns Airbnb/venue photos, keeps the seven together for the photographer, then handles the Catch move and phones/gifts check at 10:00pm.
-- Chuy is vibes and drinks only. He has no Thursday hosting duty or guest-seating assignment. Keep spelling `Chuy`. Remove all Find My notes from the page.
+- Luis holds the vows, gives a speech and is off logistics during the toasts. Malik owns Airbnb/venue photos and keeps the seven together for the photographer. Kelvin gets all seven to Cape Sienna by 4:00pm, then gathers the crew, phones, gifts and personal belongings for Catch at 10:00pm. Kelvin has no seating duty.
+- Chuy helps guests find seats before 4:30pm, brings the vibes and handles drinks. He has no Thursday hosting duty. Keep spelling `Chuy`. Keep all Find My notes and the “then sits in front row” phrase off the page.
 - The full 12-person walk order is a numbered text list. Harris remains at the altar. Menelope Flores is the flower girl. The five named non-groomsmen remain in that walk list only.
-- Friday: Airbnb prep/photos; Cape Sienna by 4:00pm; wait in the room until called; Will on the roof by 4:00pm; guests on the rooftop by 4:30pm; ceremony 5:00pm sharp; celebration until 10:00pm; Catch 10:00pm to midnight.
-- Thursday: 4:30pm rehearsal at Cape Sienna; 6:00pm Blue Sea welcome party; elevated casual; stated window of about 90 minutes to change and walk over.
+- Friday: Airbnb prep/photos; Cape Sienna by 4:00pm; wait in the room until called; guests on the rooftop by 4:30pm; ceremony 5:00pm sharp; celebration until 10:00pm; Catch 10:00pm to midnight.
+- Thursday: 4:30pm comfortable rehearsal walkthrough at Cape Sienna; 6:00pm Blue Sea welcome party / rehearsal dinner. Dinner dress code: ELEVATED CASUAL. No changing-clothes instruction or 90-minute change window.
 - Black suit, white button-up, no tie. HKT. Room block `PANNANDLEWIS`.
 - Stay November 16 to 24, 2026, hosted by Pk and Lynn at 8 Rim Tarn Village, Choeng Thale, Phuket 83110, Thailand.
 - Keep the five exact external links in `GROOMSMEN_LINKS`.
@@ -86,11 +86,8 @@ Blue Sea has its own text location card and exact map link; the two other venue 
 
 ## Schedule details to confirm before publishing
 
-The supplied brief contains overlapping instructions. The code preserves them visibly instead of silently inventing different timings:
-
-- Kelvin is told to get all seven seated in the front row by 4:00pm, while the general plan says to arrive by 4:00pm and wait in a room until called. Will separately needs to be on the roof by 4:00pm, and Luis assists guests before 4:30pm. Confirm the exact seating cue and whether 4:00pm is an arrival deadline or a seated deadline, then update the Kelvin role and timeline together.
+The latest corrections remove the separate rooftop deadline, Kelvin seating duty and Thursday change window. One original count remains to clarify:
 - “All seven sit front row” includes Harris in the seven-person crew, while he officiates from the altar. The page explicitly calls out his altar role. Confirm whether the front-row count is meant to exclude the officiant during the ceremony.
-- “About 90 minutes to change and walk over” is preserved from the brief, but the 4:30pm rehearsal and 6:00pm welcome start are only 90 minutes apart before rehearsal duration. No rehearsal end time has been invented.
 
 Do not resolve these by changing a person's role or inventing an event time.
 
