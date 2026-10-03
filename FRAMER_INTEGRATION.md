@@ -76,7 +76,7 @@ Blue Sea has its own text location card and exact map link; the two other venue 
 - Tim owns shuttles, rides and pickup times, and gets everyone to Cape Sienna by 4:00pm. Do not mention Will in Tim's card. Will holds the rings, gives a speech, keeps Antonie on time and covers the floor while Tim speaks.
 - Luis holds the vows and gives a speech. Malik owns Airbnb/venue photos, keeps the seven together for the photographer and tells funny jokes. Kelvin gathers the crew, phones, gifts and personal belongings for Catch at 10:00pm. Tim handles the Cape Sienna arrival; Kelvin has no seating duty.
 - Chuy helps guests find seats before 4:30pm, brings the vibes and handles drinks. He has no Thursday hosting duty. Keep spelling `Chuy`. Keep all Find My notes and the “then sits in front row” phrase off the page.
-- The full 12-person walk order is a numbered text list. Harris remains at the altar. Menelope Flores is the flower girl. The five named non-groomsmen remain in that walk list only.
+- The full 12-person walk order is a numbered text list without seating-sheet references or alternate-name notes. Harris remains at the altar. Menelope Flores is the flower girl. The five named non-groomsmen remain in that walk list only.
 - Friday: Airbnb prep/photos; Cape Sienna by 4:00pm; wait in the room until called; guests on the rooftop by 4:30pm; ceremony 5:00pm sharp; celebration until 10:00pm; Catch 10:00pm to midnight.
 - Thursday: 4:30pm comfortable rehearsal walkthrough at Cape Sienna; 6:00pm Blue Sea welcome party / rehearsal dinner. Dinner dress code: ELEVATED CASUAL. No changing-clothes instruction or 90-minute change window.
 - Black suit, white button-up, no tie. Omit room-block codes and flight/airport information.
