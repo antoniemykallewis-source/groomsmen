@@ -36,7 +36,7 @@ node scripts/build.cjs
 | Luis Shalabi | `assets/luis.webp` | IMG_5863.jpeg, seated by planter |
 | Harris | `assets/harris.webp` | IMG_5865.jpeg, hat |
 
-All seven portraits are assigned. The couple's boat photo is the hero. The supplied ceremony map is in the walk-order section and opens full size when tapped. The Airbnb is home base for the full week, November 16 to 24. The page has no host names, Find My notes, room-block code or flight information. Chuy helps guests find seats before 4:30pm and brings the vibes. Luis holds the vows and gives a speech. Malik owns photos and tells funny jokes. Tim owns shuttles, rides and getting everyone to Cape Sienna by 4:00pm. Kelvin gathers the crew, phones, gifts and belongings for Catch at 10:00pm. Will has no separate rooftop assignment. Thursday rehearsal is a comfortable walkthrough; rehearsal dinner dress code is ELEVATED CASUAL.
+All seven portraits are assigned. The couple's boat photo is the hero. The supplied ceremony map is in the walk-order section and opens full size when tapped. The Airbnb is home base for the full week, November 16 to 24. The page has no host names, Find My notes, room-block code or flight information. Chuy helps guests find seats before 4:30pm and brings the vibes. Luis holds the vows and gives a speech. Malik owns photos and tells funny jokes. Tim owns shuttles, rides and getting everyone to Cape Sienna by 4:00pm. Kelvin gathers the crew, phones, gifts and belongings for Catch at 10:00pm. Will has no separate rooftop assignment. Groomsmen arrive dressed and ready for the Thursday rehearsal and welcome party. Dress code: ELEVATED CASUAL. The altar map shows Yada on the left and Antonie on the right, with Harris at the top.
 
 ## Publication
 
