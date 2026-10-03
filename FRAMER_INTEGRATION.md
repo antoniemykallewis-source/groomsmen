@@ -79,7 +79,7 @@ Blue Sea has its own text location card and exact map link; the two other venue 
 - The full 12-person walk order is a numbered text list. Harris remains at the altar. Menelope Flores is the flower girl. The five named non-groomsmen remain in that walk list only.
 - Friday: Airbnb prep/photos; Cape Sienna by 4:00pm; wait in the room until called; guests on the rooftop by 4:30pm; ceremony 5:00pm sharp; celebration until 10:00pm; Catch 10:00pm to midnight.
 - Thursday: 4:30pm comfortable rehearsal walkthrough at Cape Sienna; 6:00pm Blue Sea welcome party / rehearsal dinner. Dinner dress code: ELEVATED CASUAL. No changing-clothes instruction or 90-minute change window.
-- Black suit, white button-up, no tie. HKT. Room block `PANNANDLEWIS`.
+- Black suit, white button-up, no tie. Omit room-block codes and flight/airport information.
 - Stay November 16 to 24, 2026, hosted by Pk and Lynn at 8 Rim Tarn Village, Choeng Thale, Phuket 83110, Thailand.
 - Keep the five exact external links in `GROOMSMEN_LINKS`.
 - No driving references, Japan trip, guest dress code, standing groomsmen arrangement, old poster or new seating diagram in this page.
@@ -97,7 +97,6 @@ Do not resolve these by changing a person's role or inventing an event time.
 - 27 route keys and 27 option titles are paired. The original 26 route bodies, header, footer and site CSS remain unchanged outside the groomsmen branch.
 - Local Chromium renders checked at 1440px, 768px, 390px and 320px. No horizontal page overflow, broken embedded images, missing in-page targets or browser script errors.
 - Exactly seven role cards and twelve procession entries. Hero has one H1.
-- Clipboard-denied/file-preview fallback selects the room-block code and shows a status message; supported clipboard access copies it.
 - All seven groomsmen portraits use confirmed user-provided name mappings.
 
 This is not a Framer editor publish test. After merging, test the actual Framer page at desktop and mobile widths, confirm all uploaded asset URLs, turn off page indexing, and resolve the remaining timing details before publishing the hidden page.

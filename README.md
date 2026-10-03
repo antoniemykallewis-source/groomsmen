@@ -36,7 +36,7 @@ node scripts/build.cjs
 | Luis Shalabi | `assets/luis.webp` | IMG_5863.jpeg, seated by planter |
 | Harris | `assets/harris.webp` | IMG_5865.jpeg, hat |
 
-All seven portraits are assigned. The couple's boat photo is the hero. The page has no Find My notes. Chuy helps guests find seats before 4:30pm and brings the vibes. Luis holds the vows, gives a speech and is off logistics during the toasts. Malik owns photos. Kelvin gathers the crew, phones, gifts and belongings for Catch at 10:00pm. Will has no separate rooftop assignment. Thursday rehearsal is a comfortable walkthrough; rehearsal dinner dress code is ELEVATED CASUAL.
+All seven portraits are assigned. The couple's boat photo is the hero. The page has no Find My notes, room-block code or flight information. Chuy helps guests find seats before 4:30pm and brings the vibes. Luis holds the vows, gives a speech and is off logistics during the toasts. Malik owns photos. Kelvin gathers the crew, phones, gifts and belongings for Catch at 10:00pm. Will has no separate rooftop assignment. Thursday rehearsal is a comfortable walkthrough; rehearsal dinner dress code is ELEVATED CASUAL.
 
 ## Publication
 
