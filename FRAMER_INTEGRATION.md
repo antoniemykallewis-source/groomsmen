@@ -58,7 +58,7 @@ All seven portraits were confirmed by Antonie on October 2, 2026. Additional map
 | `luis` | `assets/luis.webp` | `IMG_5863.jpeg`, seated by the planter |
 | `kelvin` | `assets/kelvin.webp` | `IMG_5866.jpeg`, Christmas sweater |
 
-The dog photo, Airbnb screenshot and seating graphic are not page assets.
+The supplied ceremony map is included as `assets/ceremony-map.png`. Keep its full 1600 × 1000 frame, with a link to open it full size. The dog photo and Airbnb screenshot are not page assets.
 
 Venue images are used only as location references. Sources:
 
@@ -73,16 +73,16 @@ Blue Sea has its own text location card and exact map link; the two other venue 
 
 - Hero: `SHOW UP READY.` Smaller serif line: `Lock in.` The profanity is a small supporting line only.
 - Seven role cards: Will, Tim, Kelvin, Malik, Chuy, Luis, Harris. Harris is the officiant, not part of the procession.
-- Tim's transport assignment is to confirm rides and pickup times only. Will holds the rings, gives a speech, keeps Antonie on time and covers the floor while Tim speaks.
-- Luis holds the vows, gives a speech and is off logistics during the toasts. Malik owns Airbnb/venue photos and keeps the seven together for the photographer. Kelvin gets all seven to Cape Sienna by 4:00pm, then gathers the crew, phones, gifts and personal belongings for Catch at 10:00pm. Kelvin has no seating duty.
+- Tim owns shuttles, rides and pickup times, and gets everyone to Cape Sienna by 4:00pm. Do not mention Will in Tim's card. Will holds the rings, gives a speech, keeps Antonie on time and covers the floor while Tim speaks.
+- Luis holds the vows and gives a speech. Malik owns Airbnb/venue photos, keeps the seven together for the photographer and tells funny jokes. Kelvin gathers the crew, phones, gifts and personal belongings for Catch at 10:00pm. Tim handles the Cape Sienna arrival; Kelvin has no seating duty.
 - Chuy helps guests find seats before 4:30pm, brings the vibes and handles drinks. He has no Thursday hosting duty. Keep spelling `Chuy`. Keep all Find My notes and the “then sits in front row” phrase off the page.
 - The full 12-person walk order is a numbered text list. Harris remains at the altar. Menelope Flores is the flower girl. The five named non-groomsmen remain in that walk list only.
 - Friday: Airbnb prep/photos; Cape Sienna by 4:00pm; wait in the room until called; guests on the rooftop by 4:30pm; ceremony 5:00pm sharp; celebration until 10:00pm; Catch 10:00pm to midnight.
 - Thursday: 4:30pm comfortable rehearsal walkthrough at Cape Sienna; 6:00pm Blue Sea welcome party / rehearsal dinner. Dinner dress code: ELEVATED CASUAL. No changing-clothes instruction or 90-minute change window.
 - Black suit, white button-up, no tie. Omit room-block codes and flight/airport information.
-- Stay November 16 to 24, 2026, hosted by Pk and Lynn at 8 Rim Tarn Village, Choeng Thale, Phuket 83110, Thailand.
+- Stay all week, November 16 to 24, 2026, at 8 Rim Tarn Village, Choeng Thale, Phuket 83110, Thailand. No host names or Friday-only language in the stay section.
 - Keep the five exact external links in `GROOMSMEN_LINKS`.
-- No driving references, Japan trip, guest dress code, standing groomsmen arrangement, old poster or new seating diagram in this page.
+- No driving references, Japan trip, guest dress code, standing groomsmen arrangement or old poster in this page. Use the supplied ceremony map alongside the walk order in type.
 
 ## Schedule details to confirm before publishing
 
